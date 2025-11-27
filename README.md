@@ -29,7 +29,7 @@ I loved the hands-on work, the experiments, the troubleshooting-that-turns-into-
 
 ---
 
-### Fast-forward ⏭⏭⏭ Early 2023
+### Fast-forward ⏭️⏭️⏭️ Early 2023
 
 I jumped into a PhD exploring **why some pediatric low-grade gliomas don’t respond to treatment**.  
 
@@ -51,6 +51,13 @@ But I fell in love with computational biology — and now I can’t imagine doin
 - Learning to survive (and occasionally enjoy) R, and nextflow  
 - Trying to make sense of weird cell clusters 👀  
 - Slowly becoming the “tech” person in the lab even though I never meant to  
+
+---
+## Projects and Contributions
+
+🟢 [ORCID](https://orcid.org/0000-0001-9157-7208)
+
+💻 Personal repos and publication --> coming soon ... ⏳
 
 ---
 
