@@ -23,7 +23,7 @@ My early toolkit included:
 - Cell culture marathons  
 - Creating *Drosophila* transgenic lines   🪰🪰🪰 
 - Microscope gymnastics for tiny dissections  
-- Taking fancy SEM images of fly eyes (they *are* pretty)
+- Taking fancy SEM -scanning electron microscopy- images of fly eyes (they *are* pretty)
 
 I loved the hands-on work, the experiments, the troubleshooting-that-turns-into-career-therapy… all of it.
 
